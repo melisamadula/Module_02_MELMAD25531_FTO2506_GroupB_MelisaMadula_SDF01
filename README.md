@@ -1,6 +1,6 @@
 # Track My Developer Journey 🚀
 
-# 👋 Hi, I'm [Melisa]
+# 👋 Hi, I'm Melisa
 
 🌱 Beginner Software Developer | 🚀 Excited to Learn & Build
 
